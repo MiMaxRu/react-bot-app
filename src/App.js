@@ -14,7 +14,7 @@ function App() {
   return (
     <div className='App'>
       <h1>Первый запуск</h1>
-      <img src='https://thumbs.gfycat.com/SoftOptimalAdeliepenguin-size_restricted.gif'></img>
+      <img src='https://thumbs.gfycat.com/SoftOptimalAdeliepenguin-size_restricted.gif' alt='img'></img>
       <button onClick={Close}>Закрыть</button>
     </div>
   )
