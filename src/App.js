@@ -1,4 +1,5 @@
 import { useEffect } from 'react';
+import React, { Component }  from 'react';
 import './App.css'
 const tg = window.Telegram.WebApp;//Подключаем объект взаимодействия с Telegram
 
