@@ -1,11 +1,11 @@
-* {
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
+
+.App {
+    display: flex;
+    flex-direction: column;
 }
 
-
-body {
-    background: var(--tg-theme-bg-color);
-    color: var(--tg-theme-text-color);
+.App img,.App button,.App h1 {
+    display: block;
+    margin: 0 auto;
+    width: 70%;
 }
